@@ -1,0 +1,17 @@
+---
+title: Tags
+tags_page: true
+layout: default
+---
+<h3>An Index of Posts by Category</h3>
+<ul>
+{% for tag in site.tags reversed %}
+    <li>{{ tag[0] }} ({{ tag[1] | size }})
+        <ul> 
+         {% for post in tag[1] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+         {% endfor %}
+      </ul>
+    </li>
+{% endfor %}
+</ul>

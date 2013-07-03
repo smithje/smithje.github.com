@@ -1,0 +1,15 @@
+        <div class="navbar">
+            <div class="navbar-inner">
+                <div class="container">
+                        <a class="brand" href="/">{{ site.name }}</a>
+                        <ul class="nav">
+                            <li {% if page.about_page %} class="active" {% endif %}>
+                                <a href="/about">About Me</a>
+                            </li>
+                            <li {% if page.tags_page %} class="active" {% endif %}>
+                                <a href="/tags">Categories</a>
+                            </li>
+                        </ul>
+                </div>
+            </div>
+        </div>

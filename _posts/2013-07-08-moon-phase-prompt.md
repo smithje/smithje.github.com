@@ -24,7 +24,7 @@ However, it didn't take too long to get things fixed up:
 {% gist 5312617 current_moon_phase.sh %}
 
 
-There are two functions, the first returns the current phase day, using the simple calculation from [here](http://www.ben-daglish.net/moon.shtml).  Basically, we know that 1970-01-07T20:35 (592500 in unix epoch time) was a new moon, so we find the difference between right now and that time and mod it by the lunar period.  The second function uses this phase day to return the correct icon, which probably won't appear correctly in your browser.
+There are two functions, the first returns the current phase day, using the simple calculation from [here](http://www.ben-daglish.net/moon.shtml).  Basically, we know that 1970-01-07T20:35 (592500 in unix epoch time) was a new moon, so we find the difference between right now and that time and mod it by the lunar period, 2551443 seconds.  The second function uses this phase day to return the correct icon, which probably won't appear correctly in your browser.
 
 
 To use this, simply put this script as current_moon_phase.sh somewhere in your path and make sure it is executable (chmod u+x current_moon_phase.sh).  Then, in your .bashrc file, you can change your prompt by doing something like this:

@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: post
 title: HalloweenBot
 date: 2013-10-22
 categories: [halloween]
@@ -10,7 +10,7 @@ tags:
 - halloween
 ---
 
-![My son wearing the robot costume](/assets/halloweenbot/wearing_robot.png')
+![My son wearing the robot costume](/assets/halloweenbot/wearing_robot.png)
 My son wearing the costume and giving a goofy smile.  Scroll down to the bottom to see more pictures and a video.
 
 

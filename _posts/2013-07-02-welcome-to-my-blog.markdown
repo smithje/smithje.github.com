@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: post
 title:  "Welcome to my blog"
 date:   2013-07-02
 categories: [meta]

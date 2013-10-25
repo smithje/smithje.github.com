@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: nil
 title: Moon phase prompt
 date: 2013-07-08
 categories: [bash]

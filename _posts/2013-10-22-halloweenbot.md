@@ -11,11 +11,12 @@ tags:
 ---
 
 ![My son wearing the robot costume](/assets/halloweenbot/wearing_robot.png)
+
 My son wearing the costume and giving a goofy smile.  Scroll down to the bottom to see more pictures and a video.
 
 
 # Preface
-
+---
 
 I still get a bit more excited about Halloween than I'd like to admit.  However,
 it's a good creative outlet for me and my son certainly enjoys the fruits of my
@@ -28,7 +29,7 @@ labor almost as much as I enjoy the labor.  So, everyone wins, right?  Last year
 
 
 # Parts
-
+---
 
 - Cardboard
 - Silver spray paint
@@ -53,7 +54,7 @@ labor almost as much as I enjoy the labor.  So, everyone wins, right?  Last year
 Lots of parts, but you can certainly do without many of them, or add more, as you wish.
 
 # Schematic
-
+---
 
 I drew up the basic schematic in fritzing, but there are a few differences between
 this and reality:
@@ -67,7 +68,7 @@ some wires to it.
 
 
 # Construction
-
+---
 
 This should be personalized by you (and/or your kid), but here are some guidelines.
 
@@ -145,7 +146,7 @@ in and out of it. However, getting his arms in is still quite difficult.  I'm no
 yet how to improve on this.
 
 # The Code
-
+---
 [Right Here!](https://github.com/smithje/HalloweenBot)
 
 I think it's fairly readable, but the basic idea is this:
@@ -161,10 +162,10 @@ make the cut.  Notably, there is no seeding of the randomization.
 
 
 # More Pictures
-
+---
 ![Front](/assets/halloweenbot/robot_front.png "Front")
 ![Back](/assets/halloweenbot/robot_back.png "Back")
 
 # Video
-
+---
 [Video Here](http://youtu.be/7ASo_NuvPf8)

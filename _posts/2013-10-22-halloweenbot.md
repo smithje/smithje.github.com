@@ -165,6 +165,7 @@ make the cut.  Notably, there is no seeding of the randomization.
 ---
 ![Front](/assets/halloweenbot/robot_front.png "Front")
 ![Back](/assets/halloweenbot/robot_back.png "Back")
+![Outside](/assets/halloweenbot/outside.jpg "Outside, first outing")
 
 # Video
 ---

@@ -1,5 +1,5 @@
 name: Jeremy Smith
-pygments: true
+highlighter: rouge
 twitter: musicsmith
 email: jeremy@musicsmith.net
 exclude: [nbproject]

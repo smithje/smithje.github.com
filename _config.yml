@@ -3,3 +3,5 @@ pygments: true
 twitter: musicsmith
 email: jeremy@musicsmith.net
 exclude: [nbproject]
+
+theme: jekyll-theme-tactile
